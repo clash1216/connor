@@ -1,0 +1,7 @@
+Write a C++ program that does the following:
+a. Create a C++ file with the name problem3.cpp.
+b. Prompt the user to enter a four-digit integer.
+c. Print the integer one digit at a time, but in reverse.
+Sample run of the program:
+Enter a four-digit number: 3412
+Your number in reverse is 2143
